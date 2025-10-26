@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My Personal Competitive Programming Environment
 
 > **Private single-developer setup — not for public GitHub upload**
@@ -357,4 +357,5 @@ cp-cli
 
 
 The TUI will launch, fetch the latest contests, and you can start practicing or join a live contest.
+
 >>>>>>> 519c28112c18e1f4f13297400189db2b116d49f4
